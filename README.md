@@ -1,5 +1,5 @@
-# Selection-Sort
-Belli dizi ile Selection Sort yapımı
+# Insertion-Sort
+Belli dizi ile Insertion Sort yapımı
 
 Dizi: [22,27,16,2,18,6]
 Dizi: [22,16,27,2,18,6]
