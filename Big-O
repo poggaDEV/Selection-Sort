@@ -1,0 +1,2 @@
+Selection Sort'da eğer Array sıralı ise = Best CASE - O(n) , diğerlerinde O(n^2). 
+------Sıralı olmadığı için O(n^2)
